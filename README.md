@@ -17,7 +17,7 @@ Analyse von Verkaufsdaten eines Online-Shops. Ziel ist es, Einblicke in Umsatzen
 - Starker Umsatzanstieg ab August. Wie ist der zu erklären?
 - Retourenrate insgesamt sehr niedrig (1,62%)
 - Neben dem heimischen Markt (UK), Niederlande, Irland, Deutschland und Frankreich am umsatzstärksten
-- 6 Champions (0,1%) machen x% des Umsatzes aus. Können diese mit Exklusiven Kampagnen weiter gefördert werden (z.B. Treueprogramm, Early Access)?
+- 6 Champions (0,1%) machen ~11% des Umsatzes aus. Können diese mit Exklusiven Kampagnen weiter gefördert werden (z.B. Treueprogramm, Early Access)?
 - Wie kann das Kundensegment "Other" sinnvoll genutzt und gefördert werden?
 
 ## Produktperformance
