@@ -13,5 +13,16 @@ Analyse von Verkaufsdaten eines Online-Shops. Ziel ist es, Einblicke in Umsatzen
 - Python (pandas, numpy, matplotlib)
 - GitHub
 
+## Produktperformance
+### 10 Produkte mit stärkstem Umsatz
+
+![Top 10 Produkte](output/top_ten.png)  
+
+### 10 Produkte mit schwächstem Umsatz.
+Negativer Umsatz bedeutet hier die meisten Retouren  
+
+![Bottom 10 Produkte](output/bot_ten.png)
+
+
 ## Dashboard
-link
+![Insights Dashboard](output/dashboard.png)
